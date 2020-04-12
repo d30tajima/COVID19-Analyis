@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/d30tajima/COVID19-Analyis/master)
 # COVID19-Analyis
 東京都の感染者数推移を自分なりに解析をするために作ったjupyter notebookです．  
 内容に責任を負いませんので，改変など自由にどうぞ．
