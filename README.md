@@ -12,4 +12,4 @@ I am not responsible for the content of this article. Please feel free to modify
 https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068/resource/c2d997db-1450-43fa-8037-ebb11ec28d4c
 
 ---
-This repogitory published under MIT license  
+This repogitory is published under MIT license  
